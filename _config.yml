@@ -8,11 +8,12 @@ permalink:        pretty
 # Setup
 title:            Natalie Hofmeister
 description:      'PhD Candidate'
+url:              https://nathofme.github.io
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Natalie Hofmeister'
+  url:            https://twitter.com/nathofme
 
 paginate:         5
 
